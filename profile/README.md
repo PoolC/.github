@@ -10,9 +10,9 @@
 
 [poolc.org](https://poolc.org) · [PoolC-Lab](https://github.com/PoolC-Lab) — PoolC 구성원 누구나 사용할 수 있는 GitHub 조직
 
-| Frontend | Backend | Infrastructure | Documentation |
-| :---: | :---: | :---: | :---: |
-| <a href="https://github.com/PoolC/PoolC-FE"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a> | <a href="https://github.com/PoolC/PoolC-BE"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /></a> | <a href="https://github.com/PoolC/PoolC-K8S"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a> | <a href="https://github.com/PoolC/PoolC-Docs"><img src="https://img.shields.io/badge/Docs-333333?style=flat-square&logo=readthedocs&logoColor=white" alt="PoolC Docs" /></a> |
+| Frontend | Backend | Infrastructure |
+| :---: | :---: | :---: |
+| <a href="https://github.com/PoolC/PoolC-FE"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a> | <a href="https://github.com/PoolC/PoolC-BE"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /></a> | <a href="https://github.com/PoolC/PoolC-K8S"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a> |
 
 </div>
 
