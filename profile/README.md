@@ -10,8 +10,8 @@
 
 [poolc.org](https://poolc.org) · [PoolC-Lab](https://github.com/PoolC-Lab) — PoolC 구성원 누구나 사용할 수 있는 GitHub 조직
 
-| Frontend | Backend | Infrastructure |
-| :---: | :---: | :---: |
+|                                                                             Frontend                                                                             |                                                                                       Backend                                                                                       |                                                                                  Infrastructure                                                                                  |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://github.com/PoolC/PoolC-FE"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a> | <a href="https://github.com/PoolC/PoolC-BE"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /></a> | <a href="https://github.com/PoolC/PoolC-K8S"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a> |
 
 </div>
@@ -19,7 +19,7 @@
 ## Architecture
 
 <div align="center">
-  <img src="./assets/poolc-web-architecture.png" width="100%" alt="PoolC Web Architecture" />
+  <img src="./assets/PoolC_aws_architecture.drawio.png" width="100%" alt="PoolC Web Architecture" />
 </div>
 
 ## Current Maintainer
